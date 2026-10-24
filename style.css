@@ -1,0 +1,62 @@
+/* Global Properties*/
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Baloo Tamma 2", cursive;
+    background: #252525
+}
+
+/* Main Heading Font */
+.m-heading {
+    font-family: "Roboto Slab", serif;
+}
+
+/* About Section */
+.about {
+    background: #313552;
+    border-radius: 0.5rem;
+}
+
+/* Portfolio Section */
+.dish {
+    margin-bottom: 2rem;
+}
+
+/* ================================
+   PART 3 - SOCIAL MEDIA + FOOTER
+   (if you already have a style.css, paste just this block at the bottom)
+   ================================ */
+
+/* Social Media Section */
+.social-media {
+    background: #313552;
+    border-radius: 0.5rem;
+}
+
+.social-icon {
+    color: white;
+    text-decoration: none;
+}
+
+.social-icon:hover {
+    color: #f5ba09;
+    text-decoration: none;
+    transition: 0.5s ease;
+}
+
+/* Footer */
+.footer-link {
+    color: white;
+}
+
+.footer-link:hover {
+    color: #f5ba09;
+    text-decoration: none;
+    transition: 0.5s ease;
+}
+
+.footer-line {
+    border-top: 1px solid #f5ba09;
+}
